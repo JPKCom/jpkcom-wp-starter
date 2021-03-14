@@ -29,7 +29,7 @@ Installation
 
 ### Setup
 
-To start using all the tools that come with `_s`  you need to install the necessary Node.js and Composer dependencies :
+To start using all the tools that come with `JPKCom Wp Starter`  you need to install the necessary Node.js and Composer dependencies :
 
 ```sh
 $ composer install
@@ -38,7 +38,7 @@ $ npm install
 
 ### Available CLI commands
 
-`_s` comes packed with CLI commands tailored for WordPress theme development :
+`JPKCom Wp Starter` comes packed with CLI commands tailored for WordPress theme development :
 
 - `composer lint:wpcs` : checks all PHP files against [PHP Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/).
 - `composer lint:php` : checks all PHP files for syntax errors.
